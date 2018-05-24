@@ -1,0 +1,26 @@
+{
+  "name": "power-string-number",
+  "version": "1.0.0",
+  "description": "強化 String 與 Number prototype 的語法糖",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acscript666/power-string-number.git"
+  },
+  "keywords": [
+    "string",
+    "prototype",
+    "number",
+    "Syntactic",
+    "sugar"
+  ],
+  "author": "acscript666",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acscript666/power-string-number/issues"
+  },
+  "homepage": "https://github.com/acscript666/power-string-number#readme"
+}
