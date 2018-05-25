@@ -5,7 +5,7 @@
 Please visit my [Github](https://github.com/acscript666/power-string-number) 
 
 ## Installation
-    npm install colors
+    npm install power-string-number
 
 ## Strengthen
 

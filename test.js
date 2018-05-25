@@ -125,6 +125,3 @@ describe('PowerStringNumber Test', function() {
     });
   });
 });
-
-
-console.log(Number(3340446).correction);              //output {Number} 3340446
