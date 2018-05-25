@@ -1,6 +1,6 @@
 {
   "name": "power-string-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "強化 String 與 Number prototype 的語法糖",
   "main": "lib/index.js",
   "scripts": {
