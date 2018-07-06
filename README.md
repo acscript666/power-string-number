@@ -29,7 +29,7 @@ Please visit my [Github](https://github.com/acscript666/power-string-number)
 
 ## Useage
 ```js
-let powerStringNumber = require('powerStringNumber');
+let powerStringNumber = require('powert-string-number');
 //String
 console.log('0100'.correction);                       //output {Number} 100
 console.log('200'.correction);                        //output {Number} 200
