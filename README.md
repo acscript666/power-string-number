@@ -60,7 +60,7 @@ console.log(Number(3340446).correction);              //output {Number} 3340446
 or a slightly less nifty way which doesn't extend `String.prototype` and `Number.prototype`
 
 ```js
-var powerStringNumber = require('powerStringNumber/safe');
+var powerStringNumber = require('powert-string-number/safe');
 
 console.log(powerStringNumber.String.correction('0100'));  //output {Number} 100
 console.log(powerStringNumber.String.correction('200'));  //output {Number} 200
